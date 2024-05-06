@@ -1,4 +1,4 @@
-## basic mapicgc-gj-js viewer
+## basic mapicgc-gl-js viewer
 
   * Basic mapicgc-gl-js viewer
   * Vanilla JS + Vite
