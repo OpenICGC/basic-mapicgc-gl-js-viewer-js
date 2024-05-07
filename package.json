@@ -1,5 +1,5 @@
 {
-  "name": "template_mapicgc",
+  "name": "basic-mapicgc-gl-js-viewer-js",
   "version": "0.0.1",
   "scripts": {
     "dev": "vite",
