@@ -1,7 +1,11 @@
-## basic mapicgc-gl-js viewer
+## Basic mapicgc-gl-js viewer
 
   * Basic mapicgc-gl-js viewer
   * Vanilla JS + Vite
+
+### Demo 
+
+  * https://openicgc.github.io/basic-mapicgc-gl-js-viewer-js/dist/index.html
 
 ### Mapicgc-gl-js documentation
 
