@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "vite",
-    "build:prod": "vite build --base=/basic-mapicgc-gl-js-viewer-js/",
+    "build:prod": "vite build --base=/basic-mapicgc-gl-js-viewer-js/dist/",
     "serve": "vite preview"
   },
   "author": "geostart",
