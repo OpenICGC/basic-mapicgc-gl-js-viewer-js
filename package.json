@@ -1,6 +1,6 @@
 {
   "name": "basic-mapicgc-gl-js-viewer-js",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "scripts": {
     "dev": "vite",
     "build:prod": "vite build --base=/basic-mapicgc-gl-js-viewer-js/dist/",
@@ -9,9 +9,10 @@
   "author": "geostart",
   "license": "ISC",
   "devDependencies": {
-    "vite": "~5.2.10"
+    "vite": "^8.0.16"
   },
   "dependencies": {
-    "mapicgc-gl-js": "^0.0.96"
+    "mapicgc-gl-js": "^1.0.8"
   }
 }
+ 
